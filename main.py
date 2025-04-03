@@ -80,7 +80,7 @@ def mejoras(i, j, CV, CTOTAL, PRESUPUESTO, empresa, CM, mejoras_arr, duracion):
         fprintf('¿Desea modificar la inversión en Mejoras Tecnológicas del mes pasado?')
         fprintf('\n1) Teclee un 1 si desea modificarla.')
         fprintf('\n2) Teclee un 2 si no desea modificarla.\n')
-        modificacion= Unodos(); %Comprobamos si es 1 ó 2
+        modificacion= Unodos(); #Comprobamos si es 1 ó 2
 
     if modificacion == 1:
         print('Placeholder')

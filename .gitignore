@@ -2,3 +2,4 @@
 *.txt
 *.gz
 *.pdf
+LaTeX/*.log
