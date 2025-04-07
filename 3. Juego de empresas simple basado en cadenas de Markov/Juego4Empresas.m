@@ -687,4 +687,3 @@ if guardar==1
     fclose(F1);
     fclose(F2);
 end
-
