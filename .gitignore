@@ -2,7 +2,11 @@
 *.txt
 *.gz
 *.pdf
+<<<<<<< HEAD
 *.log
 *.syntex.gz
 /Juego4Empresas/tests/__pycache__
 /Juego4Empresas/simulador_empresas/__pycache__
+=======
+*.log
+>>>>>>> main

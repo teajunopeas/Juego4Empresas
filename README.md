@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simulador de Empresas
 
 Este proyecto simula un juego en el que cuatro empresas compiten en un mercado estable para ver quién logra obtener la mayor porción del mercado. El juego permite a los usuarios gestionar diferentes aspectos de sus empresas, incluyendo precios, marketing, y mejoras tecnológicas.
@@ -31,3 +32,7 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abr
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
+=======
+# Juego4Empresas
+Este proyecto se basa en la simulación de un juego para 4 jugadores que simula como evoluciona el mercado en una situación estatica.
+>>>>>>> main
